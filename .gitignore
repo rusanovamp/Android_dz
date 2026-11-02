@@ -1,0 +1,26 @@
+
+# Android Studio
+.idea/
+.gradle/
+.kotlin/
+*.iml
+local.properties
+
+# Build files
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Logs
+*.log
+hs_err_pid*
+replay_pid*
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Android signing files
+*.jks
+*.keystore
